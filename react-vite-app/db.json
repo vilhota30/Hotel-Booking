@@ -1,0 +1,47 @@
+{
+  "destination": [],
+  "hotels": [
+    {
+      "id": "dfa1646b93c57ff4b0a7ed9d",
+      "name": "Gleason Group",
+      "city": "Decatur",
+      "phone_number": "(214) 884-4426 x213",
+      "photo": "https://picsum.photos/seed/B4g5j/140/140"
+    },
+    {
+      "id": "a0e4edeebfefa5ece80acc4b",
+      "name": "Hessel and Sons",
+      "city": "Kertzmannport",
+      "phone_number": "859.274.8876 x227",
+      "photo": "https://picsum.photos/seed/Ug0Xiu7/140/140"
+    },
+    {
+      "id": "ebfb5c4f2e79471dbb5cf61e",
+      "name": "Dicki - Predovic",
+      "city": "Runolfsdottirfield",
+      "phone_number": "1-522-883-8808",
+      "photo": "https://picsum.photos/seed/vaVnItR/140/140"
+    },
+    {
+      "id": "dca8ce2ccc624d0fbf0e5b3c",
+      "name": "Lowe, Lang and Crona",
+      "city": "South Gudrunside",
+      "phone_number": "(725) 456-1440 x30138",
+      "photo": "https://picsum.photos/seed/ucWfU3zYaJ/140/140"
+    },
+    {
+      "id": "49ec6534aa7d70c2fa1ddbe0",
+      "name": "Armstrong - Hoppe",
+      "city": "West Lauren",
+      "phone_number": "548-715-7469 x658",
+      "photo": "https://picsum.photos/seed/AiFHxb/140/140"
+    },
+    {
+      "id": "7b5b9ee4be8fe49cd9ddd47c",
+      "name": "Jones LLC",
+      "city": "East Maximusbury",
+      "phone_number": "(588) 746-7946 x66329",
+      "photo": "https://picsum.photos/seed/gebXbfzr/140/140"
+    }
+  ]
+}
